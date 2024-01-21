@@ -9,13 +9,27 @@
 
 body{
     text-align: center;
+    background-image: url(vecteezy_surface-of-the-water-background-calm-relaxing-water-surface_14445404.jpg);
+    background-size: cover;
+    color: white;
+    margin-left: 25%;
+    margin-right: 25%;
 }
 
 h1{
     font-family: Nexa-slab, Arial;
-    text-shadow: 5px 5px 10px darkslategrey;
+    text-shadow: 0px 0px 4px whitesmoke;
 }
 
 p{
     font-family: montserrat, Arial;
+    text-shadow: 0px 0px 3px whitesmoke;
+}
+
+i{
+    color: white;
+}
+
+a{
+    text-decoration: none;
 }
