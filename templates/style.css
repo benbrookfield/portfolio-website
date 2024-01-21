@@ -1,0 +1,21 @@
+@font-face{
+    src: url(fonts/nexa-rust.slab-black-shadow-01.otf);
+    font-family: Nexa-slab;
+}
+@font-face{
+    src: url("fonts/montserrat.regular.ttf");
+    font-family: montserrat;
+}
+
+body{
+    text-align: center;
+}
+
+h1{
+    font-family: Nexa-slab, Arial;
+    text-shadow: 5px 5px 10px darkslategrey;
+}
+
+p{
+    font-family: montserrat, Arial;
+}
